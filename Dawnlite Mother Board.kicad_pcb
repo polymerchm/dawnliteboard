@@ -26945,12 +26945,12 @@
 		(uuid "b7273ba8-10dd-4e6e-abca-0adba30ba8b2")
 	)
 	(gr_text "Steven K. Pollack"
-		(at 94.4 55.8 0)
+		(at 87.1 53.6 0)
 		(layer "B.SilkS")
 		(uuid "1ebc9244-5c3f-4cff-8e2d-98435feb1a35")
 		(effects
 			(font
-				(size 1 1)
+				(size 2 2)
 				(thickness 0.1)
 			)
 			(justify left bottom mirror)
@@ -26969,24 +26969,24 @@
 		)
 	)
 	(gr_text "Dawnlite LED Driver Board\n"
-		(at 94.4 52.4 0)
+		(at 232.1 77.2 90)
 		(layer "B.SilkS")
 		(uuid "8dd5827b-623d-40af-90d4-78f54ad38918")
 		(effects
 			(font
-				(size 1 1)
+				(size 2 2)
 				(thickness 0.1)
 			)
 			(justify left bottom mirror)
 		)
 	)
 	(gr_text "Rev 1"
-		(at 94.4 54.1 0)
+		(at 236.2 77.9 90)
 		(layer "B.SilkS")
 		(uuid "90410861-adbc-4be0-b07f-613cea14a8c0")
 		(effects
 			(font
-				(size 1 1)
+				(size 2 2)
 				(thickness 0.1)
 			)
 			(justify left bottom mirror)
